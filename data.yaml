@@ -1,0 +1,8 @@
+
+train: D:\AI COURSE TAMIL\First project\In-Line Post Training Data v1.v4i.yolov8-obb\train\images
+val: D:\AI COURSE TAMIL\First project\In-Line Post Training Data v1.v4i.yolov8-obb\valid\images
+test: D:\AI COURSE TAMIL\First project\In-Line Post Training Data v1.v4i.yolov8-obb\test\images
+
+names:
+  0: Bad Post
+  1: Good Post
